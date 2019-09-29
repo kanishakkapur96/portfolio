@@ -1,0 +1,14 @@
+{
+  "name": "modern_portfolio",
+  "version": "1.0.0",
+  "description": "Responsive portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w C:\\Users\\kanishak.kapur\\Desktop\\MODERN_PORTFOLIO\\scss\\ -o dist\\css\\ --recursive"
+  },
+  "author": "Kanishak Kapur",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
